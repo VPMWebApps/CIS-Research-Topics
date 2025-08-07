@@ -14,19 +14,20 @@ CIS Research topics
 7. manufacturing vs service economy
 
 8. policy reforms - what is policy ? what is reform ? how is it done ? how to identify bottlenecks ? unnecessary regulations , complexities - can CIS help the center and state
+   DOGE - positives and negatives
    
-9. cutting the bureaucratic red tapes - dismantling babudoms,retraining and re-assigning the workforce
+10. cutting the bureaucratic red tapes - dismantling babudoms,retraining and re-assigning the workforce
 
-10. skilling and retraining missions - re-look at the extisting institutions - efficiency and outcome - status - alive or dead
+11. skilling and retraining missions - re-look at the extisting institutions - efficiency and outcome - status - alive or dead
 
-11. supply side inefficiencies
+12. supply side inefficiencies
 
-12. digitising urban planning
+13. digitising urban planning
 
-13. indian export economics and competencies
+14. indian export economics and competencies
  
-14. import substitution
+15. import substitution
 
-15. conscious capitalism
+16. conscious capitalism
 
-16. grievance portals feedback loops
+17. grievance portals feedback loops
