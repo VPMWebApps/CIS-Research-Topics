@@ -33,3 +33,5 @@ CIS Research topics
 17. grievance portals feedback loops
 
 18. Health and nutrition education in schools - compulsory subject like EVS ?
+
+19. Survival skills - across educational institutions - part of curriculum
