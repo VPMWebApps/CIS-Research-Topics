@@ -13,7 +13,7 @@ CIS Research topics
    
 7. manufacturing vs service economy
 
-8. policy reforms - what is policy ? what is reform ? how is it done ? how to identify bottlenecks ? unnecessary regulations , complexities
+8. policy reforms - what is policy ? what is reform ? how is it done ? how to identify bottlenecks ? unnecessary regulations , complexities - can CIS help the center and state
    
 9. cutting the bureaucratic red tapes - dismantling babudoms,retraining and re-assigning the workforce
 
