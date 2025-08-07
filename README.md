@@ -5,7 +5,7 @@ CIS Research topics
 
 2. innovation - what does is mean ?
 3. product developmet - what is it ?
-4. culture of product development 
+4. culture of product development , continuous innovation
    
 5. Evolution of computers, telecommunication and software
 
