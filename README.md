@@ -35,3 +35,5 @@ CIS Research topics
 18. Health and nutrition education in schools - compulsory subject like EVS ?
 
 19. Survival skills - across educational institutions - part of curriculum
+
+20. Market research
