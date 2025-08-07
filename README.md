@@ -31,3 +31,5 @@ CIS Research topics
 16. conscious capitalism
 
 17. grievance portals feedback loops
+
+18. Health and nutrition education in schools - compulsory subject like EVS ?
