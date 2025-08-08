@@ -3,9 +3,7 @@ CIS Research topics
 
 1. What is the meaning of research, Research methodologies and principles
 
-2. innovation - what does is mean ?
-3. product developmet - what is it ?
-4. culture of product development , continuous innovation
+2. innovation , product developmet - what is it ?  culture of product development , continuous innovation
    
 5. Evolution of computers, telecommunication and software
 
@@ -15,8 +13,6 @@ CIS Research topics
 
 8. policy reforms - what is policy ? what is reform ? how is it done ? how to identify bottlenecks ? unnecessary regulations , complexities - can CIS help the center and state
    DOGE - positives and negatives
-   
-10. cutting the bureaucratic red tapes - dismantling babudoms,retraining and re-assigning the workforce
 
 11. skilling and retraining missions - re-look at the extisting institutions - efficiency and outcome - status - alive or dead
 
