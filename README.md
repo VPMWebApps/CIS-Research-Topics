@@ -36,4 +36,8 @@ CIS Research topics
 
 19. Survival skills - across educational institutions - part of curriculum
 
-20. Market research
+20. Market research - how to conduct - VC firms newsletters - mgmt consulting firms 
+
+21. Alumni outreach
+
+22. food we eat - variety of agri techniques - modern / traditional - success and failure stories - what we can learn , what we can unlearn 
