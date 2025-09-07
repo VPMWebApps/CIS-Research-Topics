@@ -22,7 +22,7 @@ CIS Research topics
 
 11. skilling and retraining missions by govt - re-look at the extisting institutions - efficiency and outcome - status - alive or dead
 
-13. digitising urban planning - problems , solutions , existing review of local problems and solutions 
+13. digitising urban planning - problems , solutions ,  review of local problems and solutions 
 
 14. indian export economics and competencies
  
