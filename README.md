@@ -1,5 +1,5 @@
 # CIS-Research-Topics
-CIS Research topics
+CIS Research topics - global comparitive study to identify solutions for local problems
 
 1. What is the meaning of research, innovation - difference between them. 
 
