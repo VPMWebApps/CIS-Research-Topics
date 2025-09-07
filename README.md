@@ -1,5 +1,6 @@
 # CIS-Research-Topics
-CIS Research topics - global comparitive study to identify solutions for local problems
+CIS Research topics - global comparitive study to identify solutions for local problems.
+Approach : identify the problems & solutions - problem charter + solution charter
 
 1. What is the meaning of research, innovation - difference between them. 
 
@@ -18,7 +19,9 @@ CIS Research topics - global comparitive study to identify solutions for local p
 8. policy reforms - how and why is it done / needed ? how to identify bottlenecks ? unnecessary regulations , complexities - can CIS contribute/help state / center reforms
    DOGE - positives and negatives ,  local municipalities - probelms and solutions  -  supply side inefficiencies
 
-9. What Makes Buildings Beautiful (And Why Beauty Does Matter) 
+9. What Makes Buildings Beautiful (And Why Beauty Does Matter)
+
+10. Garbage disposal problems - what has been done, what is being done, what can be done in the future ?
 
 11. skilling and retraining missions by govt - re-look at the extisting institutions - efficiency and outcome - status - alive or dead
 
