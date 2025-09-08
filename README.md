@@ -40,9 +40,7 @@ Approach : identify the problems & solutions - problem charter + solution charte
 19. basic survival skills - first aid, cpr, cooking, swimming, self - defence  - across educational institutions - part of curriculum
 
 20. Market research - how to conduct - VC firms newsletters - mgmt consulting firms
-
-21. incompetence - how to identify - traits and behaviors of efficient vs inefficient individuals
-
+    
 22. food we eat - variety of agri techniques - modern / traditional - success and failure stories - what we can learn , what we can unlearn
 
 23. Can traditional chemical pesticide and fertilizer companies transition to biopesticides and biofertilizers. survey on existing chemical giants and their steps towards transition.
