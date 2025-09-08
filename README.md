@@ -47,4 +47,4 @@ Approach : identify the problems & solutions - problem charter + solution charte
 
 24. Disease outbreaks and the role of infrastructure
 
-25. Broken windows theory in context of civic sense, cleanliness, SWACH BHARAT
+25. Broken windows theory , tragedy of the commons in context of civic sense, cleanliness, SWACH BHARAT
