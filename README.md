@@ -27,7 +27,7 @@ Approach : identify the problems & solutions - problem charter + solution charte
 
 13. digitising urban planning - problems , solutions ,  review of local problems and solutions 
 
-14. indian export economics and competencies
+14. indian exports - dollar devaluation- new markets
  
 15. import substitution
 
@@ -44,3 +44,7 @@ Approach : identify the problems & solutions - problem charter + solution charte
 22. food we eat - variety of agri techniques - modern / traditional - success and failure stories - what we can learn , what we can unlearn
 
 23. Can traditional chemical pesticide and fertilizer companies transition to biopesticides and biofertilizers. survey on existing chemical giants and their steps towards transition.
+
+24. Disease outbreaks and the role of infrastructure
+
+25. Broken windows theory in context of civic sense, cleanliness, SWACH BHARAT
